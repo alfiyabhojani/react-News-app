@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# News Application Clone by REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hiee!! **Alfiyabanu Bhojani** here...
 
-## Available Scripts
+This is React **News Application clone**...
 
-In the project directory, you can run:
+What is done in this Clone:-
 
-### `npm start`
+- Build Front page of News App
+- Build the General Page of News App
+- Build the Entertaiment Page of News App
+- Build the Science Page of News App
+- Build the Health Page of News App
+- Build the Sports Page of News App
+- Build the Contact Page of News App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this Clone,
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+There are different type of page...
+Every page has different type of news based on there respective topic... There is a opinion of READ MORE for the news to read the news in details..
+In Contact page there is form for the Contact of user..
 
-### `npm test`
+This Clone is made up of functional Component as well as Class Based Component..
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Tech used**
 
-### `npm run build`
+- **React**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Output Image:-
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Banner Image/ Front page Image
+   ![Alt image](./Image/image1.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. General Page Image
+   ![Alt image](./Image/image2.png)
 
-### `npm run eject`
+3. Entertainment Page Image
+   ![Alt image](./Image/image3.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Science Page Image
+   ![Alt image](./Image/image4.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. Health Page Image
+   ![Alt image](./Image/image5.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+6. Sports Page Image
+   ![Alt image](./Image/image8.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+7. Contact Page Image
+   ![Alt image](./Image/image6.png)
