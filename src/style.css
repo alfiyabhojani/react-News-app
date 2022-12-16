@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px 35px;
+  border-radius: 10px;
+  border: 1px solid #2270cc;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #2270cc;
+}
+
+/* Header css */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2270cc;
+  color: #ffffff;
+  padding: 25px 60px;
+}
+
+header ul {
+  display: flex;
+  align-items: center;
+}
+
+header ul li {
+  list-style: none;
+  margin-left: 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+header ul li .anchor__cus {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* banner */
+.banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 20px;
+}
+
+.banner .banner__text {
+  flex: 1;
+}
+
+.banner .banner_image {
+  flex: 1;
+}
+
+.banner .banner__text h2 {
+  color: #2270cc;
+  font-size: 28px;
+  padding: 15px;
+}
+
+.banner .banner__text h3 {
+  color: #2270cc;
+  font-size: 28px;
+  padding-bottom: 15px;
+}
+.banner_image {
+  width: 100%;
+  height: fit-content;
+}
+
+/* contact */
+.contact {
+  max-width: 500px;
+  margin: auto;
+}
+.contact .input__container {
+  padding: 10px 0;
+}
+.contact .input__container label {
+  display: block;
+  font-size: 18px;
+}
+.contact .input__container input {
+  width: 100%;
+  padding: 3px;
+}
+.contact .input__container input[type="checkbox"] {
+  width: 35px;
+  padding: 5px;
+}
+.contact .input__container input[type="radio"] {
+  width: 32px;
+  padding: 3px;
+}
+
+.cards__container {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  padding: 10px 10%;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.cards__container.news__card img {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.cards__container .news__card {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 12px;
+  border: 1px solid #2270cc;
+}
+
+.cards__container.news__card h4,
+p {
+  padding: 10px 0;
+}
+
+/* footer css */
+
+footer {
+  background-color: #2270cc;
+  color: #ffffff;
+  padding: 10px 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
