@@ -47,4 +47,4 @@ Output Image:-
    ![Alt image](./Image/image8.png)
 
 7. Contact Page Image
-   ![Alt image](./Image/image6.png)
+   ![Alt image](./Image/image7.png)
